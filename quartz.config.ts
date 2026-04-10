@@ -4,7 +4,7 @@ import * as Plugin from "./quartz/plugins"
 /**
  * Quartz 4 Configuration
  *
- * See https://quartz.jzhao.xyz/configuration for more information.
+ * See https://notes.infogothic.com/configuration for more information.
  */
 const config: QuartzConfig = {
   configuration: {
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "notes.infogothic.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
