@@ -2,7 +2,6 @@
 title: 01 Preface
 ---
 
-
 Dr. Paul Eastwick is a social psychologist from UC Davis. He clarifies that he is *not* a dating coach.
 
 His classes cover the following topics (and it can be inferred these make up a core of what "romance psychology" is):
