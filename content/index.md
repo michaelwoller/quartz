@@ -6,6 +6,8 @@ Hello, this is where I will be putting notes on random stuff I am reading for re
 
 Use the tabs on the left to keep track of the writings.
 
+[Back To Site](https://infogothic.com/)
+
 ## Book Note (work in progress)
 
 **Bonded By Evolution** - Paul Eastwick
