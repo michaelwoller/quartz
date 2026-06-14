@@ -1,0 +1,94 @@
+---
+title: History of DE
+---
+
+- 1857: Congressman **Justin S. Morrill** introduced a bill for the establishment of State colleges through the aid of public land grants. 
+	- Mainly intended to teach agriculture and mechanical skills.
+	- Did not pass
+- 1858: Ohio State Board of Agriculture had a petition to the federal senate to get a donation of land for each state for state colleges
+	- also did not pass
+- 1861: Lincoln's administration saw it necessary to gather information on the number of schools present and being built
+	- **1962 Morrill Land-Grant Act** would create efforts to create land-grant state university institutions 
+- 1867: An early version of the Department of Education was created (March 2, 1867 – June 30, 1869) but quickly demoted to the "**Office of Education**."
+	- Proposed by **Henry Barnard** (first **United States commissioner of Education**) initially in concept
+	- Congressmen **Zalmon Richards** was very helpful for passing the bill to create this department (founder of **National Teachers Association** and **National Education Association**)
+	- Signed into law by the Andrew Johnson administration post-Civil War.
+		- There was a lot of pushback as, prior to the civil war, education had largely been a concern of local funding/governments, not the federal government.
+	- The purpose was to collect information and statistics about schools and provide advice to schools, akin to how the Department of Agriculture helps farmers.
+	- Demotion to Office of Education under the United States Department of Interior (changed names to Bureau of Education and Statistics back to Office of Education for a few decades) 1869–1939
+		- 1939–1953 it existed under the **Federal Security Agency**
+		- 1953–1980 it existed under the **Department of Health, Education, and Welfare** 
+- 1972: Public Law 92-318 repealed the law that created Office of Education
+- 1979 **Department of Education Organization Act** was signed by Jimmy Carter to create the Dep of Educ officially,
+	- Carter called it "a significant milestone in my effort to make the federal government more efficient."
+		- presumably because it would be its own agency, not combinin resources with health and others 
+	- The debate over the ED pitted "the two largest teaching organizations against one another", the **National Education Association**, the biggest org, supported it. **The American Federation of Teachers** opposed it
+	- House opponent William Moorhead called the bill "unwise, unnecessary, and potentially dangerous." 
+		- "Good government would indicate fewer rather than more Cabinet agencies. If there is inefficiency in the education division of \[Department of Health, Education, and Welfare], it can be corrected internally."
+		- General opposition noted that education was not listed in the 10th Amendment, which set out a limited set of responsibilities of the federal government
+	- Democratic House Speaker Thomas P. O'Neill said the department would help restore the public's deteriorating confidence in education.
+- 1980: Carter administration split the **Department of Health, Education, and Welfare** into the Department of Health and Human Services and the Department of Education
+	- Via the **Department of Education Organization Act**.
+	- It ended up contributing to <10% of K-12 funding, not much financial impact or spending
+		- Note that there's like 14,000 locally elected or appointed school boards. US education is uniquely decentralized
+	- played a key roll in enforcing civil rights laws and conduting educational research
+	- Martin West admits it was "politically motivated" in order to help Jimmy Carter win the 1980 election, though that was unsuccessful
+		- The DeEd was a 1976 campaign promise to win support of **National Education Association**, the nation's largest teaching union
+			- Carter's promise lead to the union's first ever endorsement
+	- Carter's main argument was that it made sense to bring together the different education related activities that the federal government was engaged in that were at the time scattered across the federal bureaucracy
+		- Dep HEW
+		- Head Start Early Childhood Program
+		- other agencies
+	- They also made an argument that creating this cabinet was an overdue acknowledgement of education's increasing importance in American society.
+
+- 1980-1981: Reagan's administration threatened a 30% federal funding cut to education agencies, but only passed 10%
+	- Reagan also called for the elimination of the DeEd and supported tax credits for private-school tuition
+		- A lot of the ideas were produced by the **Heritage Foundation**
+	- Critic's at the time like [NYT writer Terry  Herndon](https://www.nytimes.com/1981/11/15/education/is-public-education-a-casualty-of-reaganomics.html) claim that these are mainly malicious, citing Milton Friedman as stating schools "an island of socialism in a free-market sea".
+	- **The New Right** were full of conservatives who believed public schools threaten American Life
+		- Note it is always public education
+	- **The Christian Crusade** outlet claims the **National Education Association** created a school system where "our children are being indoctrinated for a new collectivist world government"
+		- Seems like 1980s "wokeism" 
+
+2001
+- **No child left behind act**
+	- more on this eventually to look over
+
+2015
+- **Every Student Succeeds Act**
+	- reauthorized and modified no child left behind
+		- look into eventually
+
+- 2024
+	- Heritage Foundation's Project 2025 proposed eliminating many of the laws the department was charged with implementing. 
+	- It proposed over 10 years phasing out  Title One of the Elementary and Secondary Education Act.
+		- this is the funding for economically disadvantaged students, which a lot of school districts rely on
+			- States would be required to step up and fill those gaps and give the DeEd less room to place policies
+		- Elementary and Secondary Education Act requires that all states in order to receive funds under Title One
+			- Have test-based accountability
+		- Bottom line is if you don't have federal funds that you can use as strings attached to mandates, you don't have the power to really enforce mandates
+			- but it would depend a lot on how states responded to the change
+	- Marty West 
+		- ["I think debates over the status of the department and speculation over the department status are largely a distraction from the real debates over the scope and substance of federal education policy."](https://www.gse.harvard.edu/ideas/edcast/25/02/unpacking-us-department-education-what-does-it-actually-do)
+		- "The status of the department is largely a question of bureaucratic organization and is not particularly substantive."
+			- "The real question is whether the federal government has a useful and valid role to play in K 12 education"
+			- "my own view is that the answer is a qualified yes that the federal government has an important role to play in enforcing Civil Rights protections in producing high quality data and research that wouldn't be invested in adequately by states and school districts if left to their own devices, that it has a role to play in redistributing funds to support the education of low income students and students with disabilities, and also a broader role in supporting improvement efforts and innovation to try to drive higher and more equal levels of achievement."
+		- "We often say that it's easy in the role of the federal government to make states and school districts do something in order to comply with a federal requirement, but it's much harder to make them do that thing well."
+		- "if I were also trying to tell the story of what has happened with respect to American Student Achievement, I would not have a significant moment on my timeline for the creation of the Department of Education."
+		- "**The Elementary and Secondary Education Act** first passed in 1965. That was the first significant federal funding for K 12 education, the first real source of significant federal regulatory activity in K 12 education. And I think that is a much more important milestone than the creation of the department itself."
+		- "I look at the long-term trajectory of student learning as measured by the **National Assessment of Educational Progress**, for example, I don't see a shift in the trend line in 1980 when the Department of Education opened its doors."
+			- "I rather see it evolving over time in response to desegregation efforts. First in response to the adoption of test-based accountability systems in states and eventually as a federal requirement under No Child Left Behind. And really none of that is about the Department of Education per se."
+		- " I will be curious to see whether they decide to prioritize that to expend the type of political capital I would think would be needed in order \[to eliminate the Department of Education] to have any possibility of happening"
+			- lol very naive
+		- " to see whether any effort to do that would essentially just move its activities elsewhere or actually significantly change the federal role."
+			- moving student debt to treasury I know, idk about elsewhere
+ 
+- 2025
+	- It is not possible to close the DeEd officially without an act of Congress. They would need to repeal the **Department of Education Reorganization Act** passed by Carter in 1979, which would require getting past the Senate filibuster and need 60 votes
+		- This has prevented its dissolution since Reagan
+	- Leading up to Trump's executive order, some say DoEd as essential for ensuring equal access to education and enforcing federal education laws, while others see it as an unnecessary bureaucracy that interferes with state and local control
+		- seems the same arguments as the 1800s
+	- It is unclear what the support against the DeEd is these days on the right, and whether all congress on the R would be against it. Supposedly polling shows it would be hard to dissolve and get R congress on board
+		- haven't seen the polling
+	- Martin West claims [“The status of the department is largely a question of bureaucratic organization and is not particularly substantive. The real question is whether the federal government has a useful and valid role to play in K–12 education.”](https://www.gse.harvard.edu/ideas/edcast/25/02/unpacking-us-department-education-what-does-it-actually-do)
+		- DeEd still only contributeds <10% of K-12's funding
