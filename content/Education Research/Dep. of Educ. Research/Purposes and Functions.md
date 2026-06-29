@@ -3,7 +3,7 @@ title: Purposes and Functions
 ---
 
 - Functions of archaic Office of Education
-	- Initially need in order to grab information and statistics on fast-growing post Civil War educational instiutions, and the need to have a firmer federal grip on it
+	- Initially need in order to grab information and statistics on fast-growing post Civil War educational institutions, and the need to have a firmer federal grip on it
 	- pushed by Educational Reformers: mainly Radical Republicans (Lincoln republicans) and Progressive/liberal Democrats (Progressive Era)
 		- pushed back by congress who did not want to impose on states and local jurisdictions' ability to control their own educational policy
 			- "States' rights" was still a big point of sympathy post civil war
