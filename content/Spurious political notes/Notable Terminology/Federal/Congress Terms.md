@@ -1,4 +1,4 @@
-
+Note, many of these terms can be applied at the state or local level as well or are not specific to the US parliamentary procedure
 # Bills and Vote Related Terms
 
 ### **Filibuster**
@@ -23,6 +23,13 @@
 - Sometimes senators still do long speaches "talking filibusters"
 	- but these are largely theatrical to generate attention
 
+### Cloture 
+- a procedural vote that ends debate
+- depending the context, will need different amounts of votes
+	- 60% for bills
+	- simple majority (51%) for court and executive branch nominations
+- 2013, cloture was lowered to 51% for lower courts and executive branch nominations by democrats
+- 2017, republicans lowered to 51% for SCOTUS nominations
 ### **Voting up or down rule**
 - direct vote in house or senate on an amendment bill
 - used by people frustrated by opponents who delay a bill indefinitely with various tactics
@@ -49,7 +56,8 @@
 
 ### **Reconciliation Bill**
 - The Congressional Budget Act of 1974 create reconciliation process to get budget-related legislation passed more efficiently
-- essentially a budget bill that is a fast-track tool to bypass the 60-vote Senate filibuster.
+- essentially a budget bill that is a fast-track tool to bypass the 60-vote Senate filibuster
+	Only needs simple majority (51 votes)
 	- It allows bills changing federal spending, revenues, and debt limit to pass with simple majority
 - **The Budget Resolution:** Congress must first pass a concurrent budget resolution that includes "reconciliation instructions" directing specific committees to draft legislation meeting certain financial targets.
 - **Committee Action:** The designated committees draft and approve their pieces of the legislation. 
@@ -60,3 +68,18 @@
 - Reconciliation can be abused to defacto create new agencies just by providing funds to current agencies to do more things
 	- aka, to create new agencies officially, they'd need 60 votes to get past the filibuster
 	- Instead, just fast-track reconciliation, give a department more money. the department then defacto does things that it didn't do originally
+
+### Sunset Law (sunset provision)
+- legislative measure that includes an expiration date unless new laws extend it
+- used for government accountability, cutting bureaucracy, and help pass more controversial legislation
+
+### Statute 
+- a formal written law enacted by a legislative body
+- referred to as "acts"
+- establish rules of coduct, define crimes, outline legal rights and are enforceable by the government
+- every statute is a law, but not all laws are statutes
+	- Basically, since laws can come from different sources (common law, constitutional law). Statutes are legislative law
+
+### Common Law (Case Law)
+- rules established by judicial decisions and court rulings NOT legislators
+
